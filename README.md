@@ -76,6 +76,10 @@ Check my Spotify playlist - Corazon del Fuego (Deep House, Melodic vibes) :
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
+</p>
 <!--
 **samuelbelolo/samuelbelolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
