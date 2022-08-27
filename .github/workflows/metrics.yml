@@ -13,7 +13,7 @@ jobs:
       - name: Full-year calendar
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.isocalendar.fullyear.svg
+          filename: isocalendar-commit.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_isocalendar: yes
@@ -21,7 +21,7 @@ jobs:
       - name: Recent activity charts
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.habits.charts.svg
+          filename: habits-charts.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_habits: yes
@@ -35,7 +35,7 @@ jobs:
       - name: Spotify - Random track from playlist
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.music.playlist.spotify.svg
+          filename: corazon-del-fuego-spotify-random-tracks.svg
           token: NOT_NEEDED
           base: ""
           plugin_music: yes
@@ -44,6 +44,7 @@ jobs:
       - name: Spotify - Top artists
         uses: lowlighter/metrics@latest
         with:
+          filename: spotify-top-artists.svg
           token: NOT_NEEDED
           base: ""
           plugin_music: yes
@@ -56,6 +57,7 @@ jobs:
       - name: Spotify - Top tracks
         uses: lowlighter/metrics@latest
         with:
+          filename: spotify-top-tracks.svg
           token: NOT_NEEDED
           base: ""
           plugin_music: yes
