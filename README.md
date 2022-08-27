@@ -44,6 +44,47 @@ Check my Spotify playlist - Corazon del Fuego (Deep House, Melodic vibes) :
 </table>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-226-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    203 commits    █████░░░░░░░░░░░░░░░░░░░░   20.18% 
+🌆 Daytime    407 commits    ██████████░░░░░░░░░░░░░░░   40.46% 
+🌃 Evening    216 commits    █████░░░░░░░░░░░░░░░░░░░░   21.47% 
+🌙 Night      180 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.89%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       137 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.62% 
+Tuesday      136 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.52% 
+Wednesday    203 commits    █████░░░░░░░░░░░░░░░░░░░░   20.18% 
+Thursday     232 commits    █████░░░░░░░░░░░░░░░░░░░░   23.06% 
+Friday       96 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.54% 
+Saturday     111 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.03% 
+Sunday       91 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.05%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+```
+
+
+ Last Updated on 27/08/2022 18:56:05 UTC
 <!--END_SECTION:waka-->
 
 ---
