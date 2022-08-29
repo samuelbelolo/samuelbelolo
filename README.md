@@ -23,6 +23,8 @@ Check my Spotify playlist - Corazon del Fuego (Deep House, Melodic vibes) :
     <td valign="top">
       <img alt="Samuel Belolo Spotify Top artists" src="/spotify-top-artists.svg" />
     </td>
+  </tr>
+  <tr>
     <td valign="top">
       <img alt="Samuel Belolo Spotify Top played tracks from last month" src="/spotify-top-tracks.svg" />
     </td>
@@ -32,16 +34,9 @@ Check my Spotify playlist - Corazon del Fuego (Deep House, Melodic vibes) :
 ---
 ### 📊 Dev Stats
 
-<table>
-  <tr>
-    <td valign="top">
-      <img src="/isocalendar-commit.svg" alt="Metrics">
-    </td>
-    <td valign="top">
-      <img src="/habits-charts.svg" alt="Metrics">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img align="center" src="/isocalendar-commit.svg" alt="Isometrics representation of Samuel Belolo's commit">
+</p>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-8%20mins-blue)
