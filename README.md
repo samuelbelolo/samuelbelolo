@@ -39,7 +39,7 @@ Check my Spotify playlist - Corazon del Fuego (Deep House, Melodic vibes) :
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-316-blue)
 
@@ -99,7 +99,7 @@ Liquid                   3 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Chart not found](https://raw.githubusercontent.com/samuelbelolo/samuelbelolo/main/charts/bar_graph.png) 
 
 
- Last Updated on 02/09/2022 18:55:17 UTC
+ Last Updated on 03/09/2022 18:53:02 UTC
 <!--END_SECTION:waka-->
 
 ---
