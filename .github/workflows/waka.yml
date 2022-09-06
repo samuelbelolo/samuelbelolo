@@ -21,8 +21,7 @@ jobs:
           SHOW_PROFILE_VIEWS: "True"
           SHOW_EDITORS: "False"
           SHOW_LANGUAGE_PER_REPO: "True"
-          SHOW_LOC_CHART: "True"
-          SYMBOL_VERSION: 2
+          SHOW_LOC_CHART: "False"
           SHOW_LINES_OF_CODE: "True"
           SHOW_SHORT_INFO: "False"
           COMMIT_MESSAGE: ":robot: update metrics"
