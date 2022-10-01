@@ -39,9 +39,9 @@ Check my Spotify playlist - Corazon del Fuego (Deep House, Melodic vibes) :
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-110%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-107%20hrs%2027%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
@@ -74,11 +74,11 @@ Sunday       95 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-PHP                      11 hrs 40 mins      ██████████░░░░░░░░░░░░░░░   40.03% 
-JavaScript               8 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   28.53% 
-Twig                     5 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   19.29% 
-SCSS                     1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.52% 
-JSON                     59 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.37%
+PHP                      11 hrs 48 mins      ██████████░░░░░░░░░░░░░░░   40.6% 
+JavaScript               7 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   27.17% 
+Twig                     6 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   22.39% 
+JSON                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.52% 
+Liquid                   37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.18%
 
 ```
 
@@ -95,7 +95,7 @@ Liquid                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/09/2022 19:14:40 UTC
+ Last Updated on 01/10/2022 19:02:15 UTC
 <!--END_SECTION:waka-->
 
 ---
