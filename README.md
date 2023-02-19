@@ -41,7 +41,7 @@ Check my Spotify playlist - Corazon del Fuego (Deep House, Melodic vibes) :
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-651%20hrs%2028%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Million%20lines%20of%20code-blue)
 
@@ -95,7 +95,7 @@ HTML                     5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19/02/2023 03:00:11 UTC
+ Last Updated on 19/02/2023 03:02:47 UTC
 <!--END_SECTION:waka-->
 
 ---
