@@ -43,7 +43,7 @@ Check my Spotify playlist - Corazon del Fuego (Deep House, Melodic vibes) :
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.6%20million%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -72,11 +72,11 @@ Sunday                   512 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JavaScript               6 hrs 14 mins       ███████████░░░░░░░░░░░░░░   43.70 % 
-YAML                     2 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
-Other                    1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
-PHP                      1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-Apache Config            43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+JavaScript               6 hrs 14 mins       ███████████░░░░░░░░░░░░░░   44.81 % 
+YAML                     2 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
+Other                    1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+PHP                      1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+Apache Config            43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -92,7 +92,7 @@ SCSS                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/03/2023 19:07:20 UTC
+ Last Updated on 11/03/2023 18:39:20 UTC
 <!--END_SECTION:waka-->
 
 ---
