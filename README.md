@@ -1,37 +1,6 @@
 <img src="https://github.com/samuelbelolo/samuelbelolo/blob/main/header.png" />
 
 ---
-
-### 🎶 I love Music!
-
-I wake up with music, I code with music, I drive with music! Guess I should reduce a little bit 🤪
-
-🎯 Top 0.5% Spotify France listener User in 2021;
-
-Check my Spotify playlist - Corazon del Fuego (Deep House, Melodic vibes) :
-
-<a href="https://open.spotify.com/playlist/1XNS2wyxfBaeVUwr3ZluzX?si=de21e39a28c547cf" target="_blank">
-  <img alt="Spotify" src="https://img.shields.io/badge/Corazon%20del%20Fuego-1ED760?&style=plastic&logo=spotify&logoColor=white" />
-</a>
-
-
-<table>
-  <tr>
-    <td valign="top">
-      <img alt="Random track from Corazon del fuego a Spotify playlist" src="/corazon-del-fuego-spotify-random-tracks.svg" />
-    </td>
-    <td valign="top">
-      <img alt="Samuel Belolo Spotify Top artists" src="/spotify-top-artists.svg" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <img alt="Samuel Belolo Spotify Top played tracks from last month" src="/spotify-top-tracks.svg" />
-    </td>
-  </tr>
-</table>
-
----
 ### 📊 Dev Stats
 
 <p align="center">

@@ -19,40 +19,4 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           committer_message: ":robot: update isocalendar commit image"
-      - name: Spotify - Random track from playlist
-        uses: lowlighter/metrics@latest
-        with:
-          filename: corazon-del-fuego-spotify-random-tracks.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_music: yes
-          plugin_music_provider: spotify
-          plugin_music_playlist: https://open.spotify.com/embed/playlist/1XNS2wyxfBaeVUwr3ZluzX
-          committer_message: ":robot: update playlist random track's image"
-      - name: Spotify - Top artists
-        uses: lowlighter/metrics@latest
-        with:
-          filename: spotify-top-artists.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_music: yes
-          plugin_music_mode: top
-          plugin_music_provider: spotify
-          plugin_music_token: ${{ secrets.SPOTIFY_TOKEN }}
-          plugin_music_time_range: long
-          plugin_music_top_type: artists
-          committer_message: ":robot: update spotify top artist's image"
-          
-      - name: Spotify - Top tracks
-        uses: lowlighter/metrics@latest
-        with:
-          filename: spotify-top-tracks.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_music: yes
-          plugin_music_mode: top
-          plugin_music_provider: spotify
-          plugin_music_token: ${{ secrets.SPOTIFY_TOKEN }}
-          plugin_music_time_range: short
-          plugin_music_top_type: tracks
-          committer_message: ":robot: update spotify top tracks's image"
+
